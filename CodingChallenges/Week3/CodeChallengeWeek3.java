@@ -1,3 +1,5 @@
+package Week3;
+
 import java.lang.reflect.Array;
 import java.util.*;
 import java.io.*;
